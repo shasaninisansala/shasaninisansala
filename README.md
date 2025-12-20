@@ -54,11 +54,20 @@ These are some of the technologies and tools I use:
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=shasaninisansala&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasaninisansala&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 💬 Want to get in touch?
+## 🤝 Let’s Connect
 
-<div>
-  <a href="www.linkedin.com/in/shasani-nisansala-648152353" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:shasaninisansala2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href="mailto:shasaninisansala2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shasani-nisansala-648152353">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shasaninisansalE">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 <br>
 <p align="center">
   🧠 <i>"Learning is the only thing the mind never exhausts, never fears, and never regrets."</i>
