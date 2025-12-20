@@ -63,7 +63,7 @@ These are some of the technologies and tools I use:
   <a href="https://www.linkedin.com/in/shasani-nisansala-648152353">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/shasaninisansalE">
+  <a href="https://github.com/shasaninisansala">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
