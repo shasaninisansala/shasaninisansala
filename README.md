@@ -49,9 +49,13 @@ These are some of the technologies and tools I use:
 
 ### 📈 My Statistics
 
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=shasaninisansala&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasaninisansala&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shasaninisansala&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shasaninisansala&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 💬 Want to get in touch?
 ## 🤝 Let’s Connect
